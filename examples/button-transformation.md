@@ -239,14 +239,17 @@ export function Examples() {
 
 ## Installation
 
-If you want to use this button in your project:
+If you want to use the advanced button with TypeScript support:
 
 ```bash
-# Install dependencies
+# Install dependencies for the TypeScript version with variants
 npm install class-variance-authority clsx tailwind-merge
 
-# Or if using the simpler version, just copy the component
+# The class-variance-authority library provides type-safe variant management
+# clsx and tailwind-merge help with conditional class handling
 ```
+
+The simplified version below requires no dependencies - just copy and paste.
 
 ---
 

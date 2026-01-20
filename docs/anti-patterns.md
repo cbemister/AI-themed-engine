@@ -576,9 +576,9 @@ import { Space_Grotesk, Inter } from 'next/font/google'
 ```
 
 **Line Length Guidelines**:
-- Body text: 60-75 characters (max-w-2xl)
-- Headlines: Can be wider (max-w-4xl)
-- Captions: Can be narrower (max-w-md)
+- Body text: 60-75 characters (max-w-2xl ≈ 672px / 42rem)
+- Headlines: Can be wider (max-w-4xl ≈ 896px / 56rem)
+- Captions: Can be narrower (max-w-md ≈ 448px / 28rem)
 
 ---
 

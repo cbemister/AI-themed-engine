@@ -381,7 +381,10 @@ Please improve this component using:
 3. Component State Enhancement skill - add missing states
 4. Accessibility Audit skill - ensure WCAG AA compliance
 
-[paste component code]
+Component code:
+<button className="bg-blue-500 text-white px-4 py-2 rounded">
+  Submit
+</button>
 ```
 
 ---
